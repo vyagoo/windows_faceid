@@ -1,0 +1,2 @@
+window_faceid
+依赖window_libusb工程
